@@ -1,0 +1,5 @@
+option pricing(call option) by Heston model
+
+-functions
+ - caliibration of parameters(kappa, theta, sigma, rho, v0)
+ - analytical solution of call option by Heston model
